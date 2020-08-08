@@ -2,6 +2,8 @@
  * @name YoutubeBackground
  * @version 0.0.1
  * @description Sets a Youtube video as background.
+ * @website https://github.com/Pneuma714/BetterDiscordPlugins/tree/master/YoutubeBackground
+ * @source https://raw.githubusercontent.com/Pneuma714/BetterDiscordPlugins/master/YoutubeBackground/YoutubeBackground.plugin.js
  */
 
 module.exports = (() => {
