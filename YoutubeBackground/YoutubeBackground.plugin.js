@@ -2,7 +2,6 @@
  * @name YoutubeBackground
  * @version 0.0.1
  * @description Sets a Youtube video as background.
- * 
  */
 
 module.exports = (() => {
